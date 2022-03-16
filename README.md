@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Oi eu sou o Anderson Silva, desenvolvedor de software!
+## "Hello World!", eu sou o Anderson Silva, desenvolvedor de software!
 <div align="center">
   <a href="https://github.com/A-Silva25">
   <img height="162em" src="https://github-readme-stats.vercel.app/api?username=A-Silva25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
