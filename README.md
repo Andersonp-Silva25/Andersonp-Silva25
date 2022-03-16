@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/fa0a62f7cf2352fab7e8ed9132712071.gif?width=676&height=676">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/HEzOai8s35sAAAAC/baby-yoda-hi.gif?width=676&height=676">
 </div>
   
   ##
