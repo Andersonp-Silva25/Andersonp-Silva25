@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Java" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif?width=676&height=676">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://forums.minecraftforge.net/uploads/monthly_2017_02/o5c6TIN.thumb.gif.267d193520c6b456b361c62a2e66848c.gif?width=676&height=676">
   <!--Animação antiga
     <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/fa0a62f7cf2352fab7e8ed9132712071.gif?width=676&height=676">-->
 </div>
