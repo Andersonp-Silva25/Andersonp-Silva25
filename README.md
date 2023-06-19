@@ -43,6 +43,7 @@
         <img src="./img/tecnologias/nodejs.svg" width="45" height="45" alt="Node.js"/>
         <img src="./img/tecnologias/typescript.svg" width="45" height="45" alt="TypeScript"/>
         <img src="./img/tecnologias/mysql.svg" width="45" height="45" alt="MySql"/>
+        <img src="./img/tecnologias/sequelize-original.svg" width="45" height="45" alt="Sequelize"/>
       </td>
     </tr>
   </table>
