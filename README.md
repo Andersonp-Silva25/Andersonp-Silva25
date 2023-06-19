@@ -23,16 +23,30 @@
 <div style="display: inline_block"><br>
   
 </div>
-<div align='center'>
+<div>
   <table>
     <tr>
       <td>Linguagens</td>
-      <td>JavaScript</td>
+      <td><img src="./img/linguagens/js.svg" width="45" height="45" alt="JavaScript"/></td>
     </tr>
+  </table>
+  <table>
     <tr>
       <td>Tecnologias</td>
-      <td>JavaScript</td>
+      <td>
+        <img src="./img/ferramentas/git.png" width="45" height="45" alt="Git"/>
+        <img src="./img/tecnologias/html.svg" width="45" height="45" alt="HTML5"/>
+        <img src="./img/tecnologias/css3.png" width="45" height="45" alt="CSS3"/>
+        <img src="./img/tecnologias/react.svg" width="45" height="45" alt="ReactJs"/>
+        <img src="./img/tecnologias/redux.png" width="45" height="45" alt="Redux"/>
+        <img src="./img/tecnologias/jest.png" width="45" height="45" alt="Jest"/>
+        <img src="./img/tecnologias/nodejs.svg" width="45" height="45" alt="Node.js"/>
+        <img src="./img/tecnologias/typescript.svg" width="45" height="45" alt="TypeScript"/>
+        <img src="./img/tecnologias/mysql.svg" width="45" height="45" alt="MySql"/>
+      </td>
     </tr>
+  </table>
+  <table>
     <tr>
       <td>Ferramentas</td>
       <td>JavaScript</td>
