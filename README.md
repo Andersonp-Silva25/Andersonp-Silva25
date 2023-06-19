@@ -8,7 +8,7 @@
     <li>Já em <b>FRONT END</b> experienciei tecnologias como ReactJS, Redux, TypeScript, além de varias outras durante minha formação. </li>
     <li>:brain: Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedora e 
   progredir nas boas práticas de programação</li>
-    <li>📝 Veja meu currículo <a href="#" target="_blank">clicando aqui</a></li>
+    <li>📝 Veja meu currículo <a href="./curriculo/anderson_silva.pdf" target="_blank">clicando aqui</a></li>
   </ul>
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://forums.minecraftforge.net/uploads/monthly_2017_02/o5c6TIN.thumb.gif.267d193520c6b456b361c62a2e66848c.gif?width=676&height=676">
 </div>
