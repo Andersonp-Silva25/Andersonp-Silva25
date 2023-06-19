@@ -24,9 +24,19 @@
   
 </div>
 <div align='center'>
-  | Languages  |
-  |---|
-  |<div align="center"><img src="./imgs/js.svg" width="30" height="30" alt="JavaScript"/></div>|
+  <table>
+    <tr>
+      <td>Linguagens</td>
+      <td>JavaScript</td>
+    </tr>
+    <tr>
+      <td>Tecnologias</td>
+      <td>JavaScript</td>
+    </tr>
+    <tr>
+      <td>Ferramentas</td>
+      <td>JavaScript</td>
+    </tr>
 </div>
   <!-- Redes sociais  -->
 <div> 
