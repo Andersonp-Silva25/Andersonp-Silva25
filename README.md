@@ -20,19 +20,19 @@
   <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andersonp-Silva25&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <!-- Skills  -->
-<div style="display: inline_block"><br>
-  
-</div>
+<div>
+  <h1></h1>
+</div
 <div>
   <table>
     <tr>
-      <td>Linguagens</td>
+      <td><b>Linguagens</b></td>
       <td><img src="./img/linguagens/js.svg" width="45" height="45" alt="JavaScript"/></td>
     </tr>
   </table>
   <table>
     <tr>
-      <td>Tecnologias</td>
+      <td><b>Tecnologias</b></td>
       <td>
         <img src="./img/ferramentas/git.png" width="45" height="45" alt="Git"/>
         <img src="./img/tecnologias/html.svg" width="45" height="45" alt="HTML5"/>
@@ -48,8 +48,16 @@
   </table>
   <table>
     <tr>
-      <td>Ferramentas</td>
-      <td>JavaScript</td>
+      <td><b>Ferramentas</b></td>
+      <td>
+        <img src="./img/ferramentas/linux.svg" width="45" height="45" alt="Linux"/>
+        <img src="./img/ferramentas/terminal.png" width="45" height="45" alt="Terminal Linux"/>
+        <img src="./img/ferramentas/github.png" width="45" height="45" alt="GitHub"/>
+        <img src="./img/ferramentas/slack.png" width="45" height="45" alt="Slack"/>
+        <img src="./img/ferramentas/vscode.svg" width="45" height="45" alt="VsCode"/>
+        <img src="./img/ferramentas/docker.svg" width="45" height="45" alt="Docker"/>
+        <img src="./img/ferramentas/docker-compose.png" width="45" height="45" alt="Docker Compose"/>
+      </td>
     </tr>
 </div>
   <!-- Redes sociais  -->
