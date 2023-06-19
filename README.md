@@ -59,8 +59,13 @@
         <img src="./img/ferramentas/docker-compose.png" width="45" height="45" alt="Docker Compose"/>
       </td>
     </tr>
+  </table>
 </div>
   <!-- Redes sociais  -->
-<div> 
- 
+<div>
+  <h1></h1>
+</div>
+<div align='center'>
+  <h3>Redes Sociais</h3>
+  <a href="https://www.linkedin.com/in/ap-silva/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494498.png" width="70px" height="70px" target="_blank"></a>
 </div>
