@@ -6,7 +6,7 @@
     <li>👨🏽‍💻 Acabo de me formar em Desenvolvimento Web FullStack, onde aprofundei meus conhecimentos em <b>back-end</b> e <b>front-end</b></li>
     <li>No desenvolvimento <b>BACK END</b> tive algumas experiências durante essa trajetoria com algumas tecnologias como Node.js, Express, SQL, NoSQL, dentre outras. </li>
     <li>Já em <b>FRONT END</b> experienciei tecnologias como ReactJS, Redux, TypeScript, além de varias outras durante minha formação. </li>
-    <li>:brain: Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedora e 
+    <li>:brain: Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedor e 
   progredir nas boas práticas de programação</li>
     <li>📝 Veja meu currículo <a href="./curriculo/anderson_silva.pdf" target="_blank">clicando aqui</a></li>
   </ul>
